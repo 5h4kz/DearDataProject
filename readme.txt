@@ -1,1 +1,1 @@
-This is the Dear data Project for the creative coding moduel and i will be looking at how music affects my mood.
+This is the Dear data Project for the creative coding moduel and i will be looking at what my favourite music genre is and how they make me feel.
